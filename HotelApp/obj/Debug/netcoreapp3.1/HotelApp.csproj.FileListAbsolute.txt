@@ -1,0 +1,17 @@
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.exe
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.deps.json
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.json
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.dev.json
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\99470\Desktop\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.AssemblyReference.cache
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfoInputs.cache
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfo.cs
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CoreCompileInputs.cache
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CopyComplete
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\99470\Desktop\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.genruntimeconfig.cache
